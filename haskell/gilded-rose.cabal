@@ -29,7 +29,7 @@ test-suite spec
   main-is:           Spec.hs
   other-modules:     GildedRoseSpec
   build-depends:     base >=4.7
-                   , gilded-rose
-                   , hspec
-                   , hspec-expectations
-                   , QuickCheck
+                  , gilded-rose
+                  , hspec
+                  , hspec-expectations
+                  , QuickCheck

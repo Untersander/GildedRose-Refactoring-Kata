@@ -5,7 +5,7 @@ TAGS
 *.profile
 /dist
 /cabal.config
-
+.stack-work/**
 /.cabal-sandbox/
 /cabal.sandbox.config
 
